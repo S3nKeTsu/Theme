@@ -1,0 +1,53 @@
+/**
+* @name PopIt 18+ 
+* @version 1.0
+* @author Jerry
+* @description Спасибо тебе что установил эту тему! :3
+* @discord J𝐞rry#8645
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+:root {
+--background-image: url('https://images-ext-1.discordapp.net/external/bSHSa0eWuQSLrjcvn3DCUGGskS6KwivWFmaup-KG4Vo/https/cdn.nekobot.xyz/9/9/0/8be084da65f5c183d4c46c2db480b.jpg?width=843&height=474');
+--background-image-blur: 0px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://cdn.iagapparel.com/resource/5600718e-3cc6-4169-828e-70f4761342e0.jpg');
+--popout-modal-blur: 10px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://images-ext-2.discordapp.net/external/CgXxeBFU0ABHQbzjidoP7Q3Hfs63RhzWrmrPHgTs184/%3Fwidth%3D322%26height%3D474/https/media.discordapp.net/attachments/842488824419582020/925746429115383818/odQaRg1vrE8.jpg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.4;
+--left-brightness: 0.4;
+--middle-brightness: 0.5;
+--right-brightness: 0.3;
+--popout-modal-brightness: 0;
+--gradient-primary: 301,689,463; 
+--gradient-secondary: 171,100,101;
+--gradient-direction: 185deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 13px;
+--window-roundness: 25px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #f7ec5abe;
+--font: 'Whitney';
+--update-notice-1: none;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 1px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 4px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43e49b;
+--rs-idle-color: #f7b33f;
+--rs-dnd-color: #fa1d1d;
+--rs-offline-color: #9ca0a5;
+--rs-streaming-color: #6826da;
+--rs-invisible-color: #747f8d80;
+}
