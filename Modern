@@ -1,27 +1,41 @@
 /**
- * @name Alexis Modern Discord Theme
- * @author Alexis | WyvernZu#0001
- * @authorLink https://twitter.com/WyvernZu
- * @version 21.07.22
- * @description A decluttered, simple, and modern theme for Discord.
- * @source https://github.com/AlexisJonsson/AlexisJonsson.github.io/tree/master/BetterDiscordAddons/Themes
- * @website https://alexisjonsson.com/
-*/
+ * @name Spotify Discord
+ * @version 1.5.0
+ * @description Combine Discord and Spotify into one
+ * @author CapnKitten
+ * 
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ */
 
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
-@import url("https://AlexisJonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css");
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 
 :root {
-    /*My Account Button*/
-    --username-button-width: 128px; /* Adjust the with of the username button to match your discord username lenght */
-    --username-button-padding: 6px; /* Padding for the username button */
-    --username-button-right-margin: 12px; /* Width between the username button and the window controls */
+	--accent-color: #1db954;
+	--accent-hover: #1ed760;
+	--accent-rgb: 29,185,84;
+	--accent-text-color: #fff; /*	-	*/
 
-    /*Server List*/
-    --server-icon-size: 32px;  /* Size of the server icons */
-    --server-outer-margin: 14px;  /* Spacing between the edge of the container and the server icons.*/
-    --server-spacing: 10px;  /* Spacing between each server icon*/
+	--chat-color: #121212;
+	--chat-box-color: #272727;
+	--sidebar-color: #000;
+	--sidebar-panel: #090909; /*	-	*/
 
-    /*Server Info Bar*/
-    --app-info-bar-height: 48px; /* Height for container that holds the server name, info, actions and search */
+	--title-bar: #212121;
+	--sticky-header: #181818;
+	--sticky-header-border: #303030; /*	-	*/
+
+	--bar-color: #181818;
+	--bar-border-color: #282828;
+	--bar-size: 90px; /*	-	*/
+
+	--popout-color: #282828;
+	--popout-radius: 7px;
+	--popout-radius-small: 3px; /*	-	*/
+
+	--input-color: #e0e0e0;
+	--input-text-color: #333;
+	--input-placeholder-color: #444;
 }
